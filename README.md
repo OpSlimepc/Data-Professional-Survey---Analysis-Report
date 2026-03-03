@@ -1,6 +1,17 @@
 # Data Professional Survey Analysis | Salary, Career Shifts & Workplace Insights
 Excel + Power BI Project | Global Data Professionals Survey | From Raw Responses to Career Insights
 
+## Table of Contents
+
+-[Project Overview](Project-overview)
+-[Tools & Technologies](Tools-&-Technologies)
+-[Dataset Overview](Dataset-Overview)
+-[Data Cleaning Process](Data-Cleaning-Process)
+-[Power BI Dashboard](Power-BI-Dashboard)
+-[Key Insights](Key-Insights)
+-[Recommendations](Recommendations)
+
+
 ### Project Overview
 This project analyzes survey responses from data professionals to uncover trends in salary distribution, career transitions, work-life balance, job satisfaction, and their priorities.
 The project transforms raw survey responses into actionable workforce insights using Excel and Power BI.
@@ -29,7 +40,8 @@ Key columns include:
 12. Important Factors for New Job
 
 ### Data Cleaning Process
-The following steps were performed to prepare the survey dataset for analysis:
+Data cleaning and preprocessing were conducted using Microsoft Excel prior to visualization in Power BI. 
+The following steps were performed:
 1. Removed Unnecessary Columns
 - Columns that are empty and those not relevant to the analysis were deleted to reduce noise and improve clarity in the data model.
 2. Renamed Columns
