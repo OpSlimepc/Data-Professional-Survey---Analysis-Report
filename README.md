@@ -3,13 +3,13 @@ Excel + Power BI Project | Global Data Professionals Survey | From Raw Responses
 
 ## Table of Contents
 
--[Project Overview](Project-overview)
--[Tools & Technologies](Tools-&-Technologies)
--[Dataset Overview](Dataset-Overview)
--[Data Cleaning Process](Data-Cleaning-Process)
--[Power BI Dashboard](Power-BI-Dashboard)
--[Key Insights](Key-Insights)
--[Recommendations](Recommendations)
+-  [Project Overview](#project-overview)
+-  [Tools & Technologies](#tools-&-technologies)
+-  [Dataset Overview](#dataset-overview)
+-  [Data Cleaning Process](#data-cleaning-process)
+-  [Power BI Dashboard](#power-bi-dashboard)
+-  [Key Insights](#key-insights)
+-  [Recommendations](#recommendations)
 
 
 ### Project Overview
