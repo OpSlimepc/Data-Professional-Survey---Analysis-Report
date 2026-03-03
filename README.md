@@ -4,23 +4,28 @@ Excel + Power BI Project | Global Data Professionals Survey | From Raw Responses
 ## Table of Contents
 
 -  [Project Overview](#project-overview)
--  [Tools & Technologies](#tools-&-technologies)
+-  [Tools & Technologies](#tools--technologies)
 -  [Dataset Overview](#dataset-overview)
 -  [Data Cleaning Process](#data-cleaning-process)
 -  [Power BI Dashboard](#power-bi-dashboard)
 -  [Key Insights](#key-insights)
 -  [Recommendations](#recommendations)
 
+---
 
 ### Project Overview
 This project analyzes survey responses from data professionals to uncover trends in salary distribution, career transitions, work-life balance, job satisfaction, and their priorities.
 The project transforms raw survey responses into actionable workforce insights using Excel and Power BI.
+
+---
 
 ### Tools & Technologies
 Tools & Technologies
 1. Excel – Data cleaning & transformation
 2. Power BI – Data modeling & dashboard visualization
 3. DAX – Measures and calculated columns
+
+---
 
 ### Dataset Overview
 The dataset contains survey responses from 630 data professionals.
@@ -38,6 +43,8 @@ Key columns include:
 10. Career Switch into Data (Yes/No)
 11. Difficulty Breaking into Data
 12. Important Factors for New Job
+
+---
 
 ### Data Cleaning Process
 Data cleaning and preprocessing were conducted using Microsoft Excel prior to visualization in Power BI. 
@@ -62,6 +69,8 @@ The salary column originally contained ranges (e.g., "0-40k").
   - Salary ranges were converted into their midpoint (average value).
   - The field was transformed into a numeric data type for aggregation and visualization.
 
+---
+
 ### Power BI Dashboard
 The interactive dashboard includes:
 1. KPI Cards:
@@ -83,6 +92,8 @@ The interactive dashboard includes:
 
 <img width="1412" height="797" alt="image" src="https://github.com/user-attachments/assets/c15ac6c5-afe8-490d-b00b-f8e7b1d3b94b" />
 
+---
+
 ### Key Insights
 1. A majority of respondents transitioned into data from another career.
 2. Python dominates as the most preferred programming language.
@@ -91,12 +102,14 @@ The interactive dashboard includes:
 5. Data professionals are distributed across diverse industries, with tech leading representation.
 6. Work-life balance ratings are relatively consistent across genders and ages.
 
+---
 
 ### Recommendations
 * Organizations should prioritize competitive salary offerings.
 * Flexible work arrangements remain a strong attraction factor.
 * Upskilling in Python remains a valuable investment.
 
+---
 
 
 Dataset source:
