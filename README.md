@@ -98,7 +98,7 @@ The interactive dashboard includes:
 ### Key Insights
 1. A majority of respondents transitioned into data from another career.
 2. Python dominates as the most preferred programming language.
-3. Salary is the most important factor when considering a new job.
+3. Salary is the one of the most important factor for data professionals when considering a new job.
 4. Many respondents report moderate difficulty entering the data field.
 5. Data professionals are distributed across diverse industries, with tech leading representation.
 6. Work-life balance ratings are relatively consistent across genders and ages.
