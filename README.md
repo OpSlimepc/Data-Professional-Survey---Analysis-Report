@@ -48,6 +48,7 @@ Key columns include:
 
 ### Data Cleaning Process
 Data cleaning and preprocessing were conducted using Microsoft Excel prior to visualization in Power BI. 
+
 The following steps were performed:
 1. Removed Unnecessary Columns
 - Columns that are empty and those not relevant to the analysis were deleted to reduce noise and improve clarity in the data model.
